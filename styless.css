@@ -90,13 +90,5 @@ ul li a {
 }
 
 .contax {
-    font-size: 142%;
     width: 900px;
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%)
 }
