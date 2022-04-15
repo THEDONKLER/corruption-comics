@@ -42,43 +42,8 @@ ul li a {
     transition: 500ms;
 }
 
-.edition-three:hover {
-    position:relative;
-    width:450px;
-    height:auto;
-    transition: 500ms;
-    display:block;
-    top:-5px;
-    left:-10px;
-}
-
-.edition-three:not(hover) {
-    transition: 500ms;
-}
-/*
-.edition-one:hover + .edition-two { width: 200px; transition: 500ms;} 
-.edition-one:hover + .edition-three { width: 200px; transition: 500ms;} 
-.edition-two:hover + .edition-one { width: 200px;transition: 500ms; } 
-.edition-two:hover + .edition-three { width: 200px;transition: 500ms; } 
-.edition-three:hover + .edition-two { width: 200px; transition: 500ms;} 
-.edition-three:hover + .edition-one { width: 200px; transition: 500ms;} 
-*/
 .edition-one {
 	padding-left: 10px;
-}
-.edition-two:hover {
-    position:relative;
-    width:450px;
-    height:auto;
-    transition: 500ms;
-    display:block;
-    top:-5px;
-    left:-10px;
-}
-
-.edition-two:not(hover) {
-    transition: 500ms;
-}
 
 .email {
 	text-decoration: none;
@@ -90,5 +55,9 @@ ul li a {
 }
 
 .contax {
+    width: 900px;
+}
+
+.practice {
     width: 900px;
 }
