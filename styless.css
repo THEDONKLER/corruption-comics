@@ -89,6 +89,10 @@ ul li a {
 	transition: 500ms;
 }
 
+.email:not(hover) {
+	transition: 500ms;
+}
+
 .contax {
     width: 900px;
     /*position: relative;
