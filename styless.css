@@ -116,5 +116,6 @@ ul li a {
 	.main {
 		display : block;
 		align : center;
+		font-family: cursive;
 	}
 }
